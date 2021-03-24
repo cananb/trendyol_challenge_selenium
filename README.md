@@ -1,2 +1,2 @@
-# trendyol_challenge_selenium
-Trendyol Bootcamp Selenium 
+# trendyol_bootcamp_selenium_challenge
+ Trendyol Test Bootcamp Selenium Challenge
